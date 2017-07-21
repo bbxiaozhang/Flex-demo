@@ -16,7 +16,7 @@
 >* align-items
 >* align-content
     
-###设置在项目上的6个属性：
+### 设置在项目上的6个属性：
 >* order    
 >* flex-grow    
 >* flex-shrink    
