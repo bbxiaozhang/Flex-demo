@@ -1,6 +1,6 @@
 ## Flex 布局
 
-[Demo]https://binbaozhang.github.io/Flex-demo/
+[Demo](https://binbaozhang.github.io/Flex-demo/)
 
 * Flex 是 Flexible Box 的缩写，以为弹性布局，为盒装模型提供最大的灵活性
 * 任何一个容器都可以指定为 Flex 布局
@@ -9,19 +9,31 @@
 * 设置 Flex 布局之后，子元素的 float、clear、vertical-align 属性将失效
 
 * 设置在容器上的6个属性：
+
     *  flex-direction
+    
     *  flex-wrap
+    
     *  flex-flow
+    
     *  justify-content
+    
     *  align-items
+    
     *  align-content
     
 * 设置在项目上的6个属性：
+
     *  order
+    
     *  flex-grow
+    
     *  flex-shrink
+    
     *  flex-basis
+    
     *  flex
+    
     *  align-self
     
 ## 参考链接
