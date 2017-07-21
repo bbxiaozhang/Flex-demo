@@ -1,6 +1,6 @@
 ## Flex 布局
 
-[Demo](https://binbaozhang.github.io/Flex-demo/)
+### [Demo](https://binbaozhang.github.io/Flex-demo/)
 
 * Flex 是 Flexible Box 的缩写，以为弹性布局，为盒装模型提供最大的灵活性
 * 任何一个容器都可以指定为 Flex 布局
@@ -8,19 +8,19 @@
 * Webkit 内核的浏览器，必须加上 -webkit 前缀：display : -webkit-flex
 * 设置 Flex 布局之后，子元素的 float、clear、vertical-align 属性将失效
 
-* 设置在容器上的6个属性：
+### 设置在容器上的6个属性：
 
-    *  flex-direction
+    *flex-direction
     
-    *  flex-wrap
+    *flex-wrap
     
-    *  flex-flow
+    * flex-flow
     
-    *  justify-content
+    * justify-content
     
-    *  align-items
+    * align-items
     
-    *  align-content
+    * align-content
     
 * 设置在项目上的6个属性：
 
